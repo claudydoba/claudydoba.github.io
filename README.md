@@ -1,6 +1,6 @@
 # Welcome
 
-This site is under construction 🚧. You will have some news soon. 😊
+This site is under construction 🚧. New things are coming soon. 😊
 
 Still, visit:
 - [My GitHub](https://github.com/claudydoba)
